@@ -1,0 +1,35 @@
+h1 {
+  color : solidblack;
+}
+.myBitOfCrazyStyling{
+  color : DarkRed;
+}
+h2 {
+  color : Darkred
+}
+h3 {
+  color : Darkgreen
+}
+img { 
+    border: 5px solid black; 
+    padding: 5px;
+}
+.Choco{
+  border: 1px solid grey;
+  background-color: Chocolate;
+  padding: 10px;
+  margin: 20px;
+  color: white;
+}
+.Link{
+  border: 1px solid grey;
+  background-color: grey;
+  padding: 10px;
+  margin: 20px;
+}
+.Last{
+  border: 1px solid grey;
+  background-color: Chocolate;
+  padding: 10px;
+  margin: 20px;
+}
